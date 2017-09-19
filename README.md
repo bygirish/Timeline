@@ -2,6 +2,8 @@
 
 ### App demo
 
+<img src = './demo.png' width = "400" />
+
 *-This project contains a simple app that shows timeline/milestones for a work to be completed or get completed.-*
 
 ## Getting Started
